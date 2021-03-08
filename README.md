@@ -1,2 +1,2 @@
-# FibonacciCode
+# Fibonacci and Automated Testing Code
 This project was conducted as a group in a DevOps course when creating a REST API pipeline. The REST API contains a Dockerfile, an interactive command line interface, automated testing, and our API pipeline contents. The REST API project is located in my repositiories as "Project_API-1." This project consists of the fibonacci code I created to test user inputs agaisnt expected outcomes. 
